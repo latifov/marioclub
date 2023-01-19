@@ -86,4 +86,5 @@ main {
   width: 1200px;
   margin: 80px auto;
   padding: 0 40px;
+  box-sizing: border-box;
 }
