@@ -134,8 +134,15 @@ form input {
   }
 
   footer {
+    font-size: 18px;
     background: #F63232;
     color: #fff;
     padding: 10px;
     text-align: center;
   }
+
+.copyright a {
+  color: #4b4b4b;
+  font-size: 1.2em;
+  font-weight: bold;
+}
