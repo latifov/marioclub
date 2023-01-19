@@ -88,3 +88,13 @@ main {
   padding: 0 40px;
   box-sizing: border-box;
 }
+
+article h2 {
+  color:#F63232;
+  font-size: 48px;
+}
+
+article p {
+  line-height: 1.8em;
+  color:#4b4b4b;
+}
