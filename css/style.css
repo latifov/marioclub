@@ -1,3 +1,4 @@
+/* clean browser styles */
 body, ul, h1, h2, a {
   margin: 0;
   padding: 0;
@@ -22,6 +23,9 @@ header h1 {
   display: inline;
   border-radius: 36px;
 }
+
+/* banner */
+
 .banner {
   position: relative;
 }
@@ -47,11 +51,12 @@ header h1 {
   font-size: 1.3em;
 }
 
+/* menu */
 nav {
   background-color: #f4f4f4;
   padding: 20px;
   position: sticky;
-  top: 76px;
+  top: 50px;
 }
 
 nav ul {
@@ -72,4 +77,13 @@ nav li a {
 
 nav li a.join {
   color: #FDB001;
+}
+
+/*page main content styles */
+
+main {
+  max-width: 100%;
+  width: 1200px;
+  margin: 80px auto;
+  padding: 0 40px;
 }
