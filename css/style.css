@@ -1,0 +1,28 @@
+header {
+  
+}
+
+.banner {
+  position: relative;
+}
+
+.banner img {
+  max-width: 100%;
+}
+
+.banner .welcome {
+  background-color: #FDB001;
+  color: #fff;
+  padding: 30px;
+  position: absolute;
+  left: 0;
+  top: 30%;
+}
+
+.banner h2 {
+  font-size: 72px;
+}
+
+.banner h2 span {
+  font-size: 1.3em;
+}
