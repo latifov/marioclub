@@ -34,7 +34,7 @@ header h1 {
 }
 
 .banner h2 {
-  font-size: 72px;
+  font-size: 74px;
 }
 
 .banner h2 span {
@@ -42,8 +42,10 @@ header h1 {
 }
 
 nav {
-  background-color: #F4F4F4;
+  background-color: #f4f4f4;
   padding: 20px;
+  position: sticky;
+  top: 76px;
 }
 
 nav ul {
