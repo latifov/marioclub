@@ -114,3 +114,21 @@ article p {
 .images li img {
   max-width: 100%;
 }
+
+.join {
+  background: #f4f4f4;
+  text-align: center;
+  padding: 60px 20px;
+}
+
+.join h2{
+  font-size: 36px;
+}
+
+form input {
+  margin: 20px 0;
+  padding: 10px 20px;
+  font-size: 20px;
+  border-radius: 28px;
+  border: 4px solid #fff;
+  }
