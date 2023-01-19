@@ -115,7 +115,7 @@ article p {
   max-width: 100%;
 }
 
-.join {
+section.join {
   background: #f4f4f4;
   text-align: center;
   padding: 60px 20px;
@@ -131,4 +131,11 @@ form input {
   font-size: 20px;
   border-radius: 28px;
   border: 4px solid #fff;
+  }
+
+  footer {
+    background: #F63232;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
   }
