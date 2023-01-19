@@ -1,7 +1,21 @@
 header {
-  
+  background-color: #F63232;
+  padding: 20px;
+  text-align: center;
+  position: fixed;
+  width: 100%;
+  z-index: 1;
+  top: 0;
+  left: auto;
 }
 
+header h1 {
+  color: #fff;
+  border: 8px solid #fff;
+  padding: 6px 12px;
+  display: inline;
+  border-radius: 36px;
+}
 .banner {
   position: relative;
 }
