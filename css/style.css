@@ -184,3 +184,20 @@ nav li a:hover{
   }
 
 }
+
+@media screen and (max-width: 660px) {
+  /* here we change banner text position and size */
+  .banner .welcome {
+    padding: 5px;
+    top: 40%;
+  }
+
+  .banner .welcome h2 {
+    font-size: 48px;
+  }
+/* here we change menu items size */  
+  nav li {
+    font-size: 16px;
+  }
+
+}
